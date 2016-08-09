@@ -6,4 +6,4 @@ Use the 'left' and 'right' arrow keys to move the paddle left and right. Bounce 
 to remove the walls. Remove all of the walls within three lives to win. To pause the game, hit 'p'.
 
 ## Instructions
-To play, import ball_breaker (recommended from a local directory) into python or a python IDE, and call ball_breaker.play().
+To play, 'import ball_breaker' (recommended from a local directory) into python or a python IDE, and call 'ball_breaker.play()'.
