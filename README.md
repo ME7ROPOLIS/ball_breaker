@@ -7,3 +7,6 @@ to remove the walls. Remove all of the walls within three lives to win. To pause
 
 ## Instructions
 To play, `import ball_breaker` (recommended from a local directory) into python or a python IDE, and call `ball_breaker.play()`.
+
+## Requirements
+Ball Breaker requires `pygame` and `python 3.X` to work. 
